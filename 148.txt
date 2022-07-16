@@ -1,0 +1,7 @@
+AccountNumber:148
+FirstName:Ali
+LastName:Hashim
+Password:123
+Type:saving
+CurrentAmount:
+85000
